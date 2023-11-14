@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./pages/contacts.css">
+    <title>Контакты</title>
+</head>
+
+<body class="root">
+
+    <header class="header">
+
+        <img class="header__logo header__logo_hover" src="./images/logo1920.svg" id="indexButton"
+            alt="Логотип-главное-меню">
+        <div class="header__tabs">
+            <button class="header-tab" id="projectsButton">Проекты</button>
+            <button class="header-tab" id="aboutUsButton">О компании</button>
+            <button class="header-tab header-tab_active">Контакты</button>
+        </div>
+
+    </header>
+    <main class="content">
+
+        <section class="contacts-box">
+
+            <div class="contacts-box__office">
+                <h2 class="contacts-box__title">Офис</h2>
+                <h3 class="contacts-box__subtitle">Телефон</h3>
+                <p class="contacts-box__phrases">8 800 500 6340</p>
+                <h3 class="contacts-box__subtitle">E-mail</h3>
+                <p class="contacts-box__phrases">order@promogroup.ru</p>
+                <h3 class="contacts-box__subtitle">Часы работы офиса</h3>
+                <p class="contacts-box__phrases">пн-пт с 9:30 до 18:30</p>
+                <h3 class="contacts-box__subtitle">Адрес</h3>
+                <p class="contacts-box__phrases">111524, Москва, ул. Электродная, д.2, стр.34</p>
+                <button class="contacts-box__scheme">Посмотреть схему проезда</button>
+                <button class="contacts-box__requisites">Скачать реквизиты компании</button>
+            </div>
+
+            <div class="contacts-box__warehouse">
+                <h2 class="contacts-box__title">Склад</h2>
+                <h3 class="contacts-box__subtitle">Часы работы склада:</h3>
+                <p class="contacts-box__phrases">пн-пт с 9:00 до 18:00</p>
+                <h3 class="contacts-box__subtitle">Адрес</h3>
+                <p class="contacts-box__phrases">Москва, ул. Ткацкая 5, стр.4</p>
+                <button class="contacts-box__scheme">Посмотреть схему проезда</button>
+            </div>
+
+            <div class="contacts-box__application">
+                <h2 class="contacts-box__title">Оставить заявку</h2>
+                <input class="contacts-box__input" placeholder="Имя">
+                <input class="contacts-box__input" placeholder="E-mail">
+                <input class="contacts-box__input" placeholder="Телефон">
+                <input class="contacts-box__input" placeholder="Расскажите о своем проекте">
+                <p class="contacts-box__copy">Заполняя форму, вы соглашаетесь на <span
+                        class="contacts-box__span">обработку персональных данных</span> (ст.9 ФЗ от 27.07.2006
+                    №152-ФЗ «О персональных данных»)</p>
+                <button class="contacts-box__request">ОТПРАВИТЬ ЗАПРОС</button>
+            </div>
+
+        </section>
+
+    </main>
+
+    <script src="./scripts/contacts.js"></script>
+
+</body>
+
+</html>

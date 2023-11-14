@@ -1,0 +1,9 @@
+.overlay-content__phrase {
+    margin: 0;
+    font-family: 'ccPro', sans-serif;
+    font-size: 24px;
+    line-height: 27.6px;
+    font-weight: 900;
+    letter-spacing: 3;
+    color: #FFFFFF;
+}

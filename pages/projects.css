@@ -1,0 +1,37 @@
+@import url(../fonts/fonts.css);
+
+@import url(../blocks/root/root.css);
+
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__logo/_hover/header__logo_hover.css);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__tabs/header__tabs.css);
+@import url(../blocks/header-tab/header-tab.css);
+@import url(../blocks/header-tab/_active/header-tab_active.css);
+
+@import url(../blocks/content/content.css);
+
+@import url(../blocks/caption/caption.css);
+@import url(../blocks/caption/__text/caption__text.css);
+@import url(../blocks/caption/__image-box/caption__image-box.css);
+@import url(../blocks/caption/__image-element/caption__image-element.css);
+@import url(../blocks/caption/__tab/caption__tab.css);
+
+@import url(../blocks/project-content/project-content.css);
+@import url(../blocks/project-content/__markup/project-content__markup.css);
+@import url(../blocks/project-content/__name/project-content__name.css);
+@import url(../blocks/project-content/__year/project-content__year.css);
+@import url(../blocks/project-content/__button/project-content__button.css);
+
+@import url(../blocks/client-form/client-form.css);
+@import url(../blocks/client-form/__title/client-form__title.css);
+@import url(../blocks/client-form/__input/client-form__input.css);
+@import url(../blocks/client-form/__copy/client-form__copy.css);
+@import url(../blocks/client-form/__span/client-form__span.css);
+@import url(../blocks/client-form/__button/client-form__button.css);
+
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__number/footer__number.css);
+@import url(../blocks/footer/__logo/footer__logo.css);
+@import url(../blocks/social-buttons/social-buttons.css);
+@import url(../blocks/social-buttons/__button/social-buttons__button.css);

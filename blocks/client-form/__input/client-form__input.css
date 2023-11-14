@@ -1,0 +1,22 @@
+.client-form__input {
+    margin: 45px 0 0;
+    width: 726px;
+    font-family: 'mtReg', sans-serif;
+    color: #9D9D9D;
+    font-size: 16px;
+    line-height: 19.2px;
+    font-weight: 400;
+    letter-spacing: 5%;
+    border: none;
+    border-bottom: 2px solid #E8E8E8;
+    padding-bottom: 15px;
+    background-color: transparent;
+}
+
+.client-form__input:first-of-type {
+    margin-top: 90px;
+}
+
+.client-form__input:last-of-type {
+    margin-bottom: 25px;
+}

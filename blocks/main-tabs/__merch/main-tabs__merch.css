@@ -1,0 +1,16 @@
+.main-tabs__merch {
+    background-image: url(../../../images/merch.svg);
+    margin: 0 21.92px 0;
+    height: 667px;
+    width: 372.56px;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    overflow: hidden;
+    transition: background-image .2s ease;
+}
+
+.main-tabs__merch:hover {
+    background-image: url(../../../images/design-hover.svg);
+    /**дизайнере не загрузил нормальный исходник для этого файла **/
+}

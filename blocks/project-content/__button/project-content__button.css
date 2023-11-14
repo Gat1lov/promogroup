@@ -1,0 +1,18 @@
+.project-content__button {
+    margin: 90px 0 0 392px;
+    font-family: 'mtSBold', sans-serif;
+    padding: 24px 40px;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 3%;
+    color: #0000FF;
+    border-color: #0000FF;
+    background: none;
+    cursor: pointer;
+    transition: scale .5s;
+}
+
+.project-content__button:hover {
+    scale: 1.2;
+}

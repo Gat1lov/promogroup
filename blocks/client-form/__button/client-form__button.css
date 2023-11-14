@@ -1,0 +1,18 @@
+.client-form__button {
+    margin: 0 0 140px;
+    padding: 24px 40px;
+    width: 270px;
+    color: #FFFFFF;
+    font-family: 'mtBlack', sans-serif;
+    font-size: 15px;
+    font-weight: 900;
+    line-height: 24px;
+    letter-spacing: 5%;
+    background-color: #0000FF;
+    border-color: transparent;
+    transition: scale .5s;
+}
+
+.client-form__button:hover {
+    scale: 1.2;
+}

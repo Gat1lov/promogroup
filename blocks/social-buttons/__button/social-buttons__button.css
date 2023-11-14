@@ -1,0 +1,16 @@
+.social-buttons__button {
+    font-family: 'mtReg', sans-serif;
+    font-size: 14px;
+    line-height: 22.4px;
+    letter-spacing: 10%;
+    color: #686868;
+    text-align: center;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    transition: color .5s;
+}
+
+.social-buttons__button:hover {
+    color: #0000FF;
+}

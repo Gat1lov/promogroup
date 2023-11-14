@@ -1,0 +1,16 @@
+.how-we-work__button {
+    margin: 0 0 104px;
+    padding: 23px 33px;
+    background-color: #0000FF;
+    font-family: 'mtBlack', sans-serif;
+    font-size: 15px;
+    line-height: 24px;
+    color: #FFFFFF;
+    border: none;
+    letter-spacing: .5px;
+    transition: scale .5s;
+}
+
+.how-we-work__button:hover {
+    scale: 1.2;
+}

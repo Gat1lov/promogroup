@@ -1,0 +1,42 @@
+@import url(../fonts/fonts.css);
+
+@import url(../blocks/root/root.css);
+
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__logo/_hover/header__logo_hover.css);
+@import url(../blocks/header/_hover/);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__tabs/header__tabs.css);
+@import url(../blocks/header-tab/header-tab.css);
+@import url(../blocks/header-tab/_active/header-tab_active.css);
+
+@import url(../blocks/content/content.css);
+
+@import url(../blocks/how-we-work/how-we-work.css);
+@import url(../blocks/how-we-work/__title/how-we-work__title.css);
+@import url(../blocks/how-we-work/__subtitle/how-we-work__subtitle.css);
+@import url(../blocks/how-we-work/__subtitle-element/how-we-work__subtitle-element.css);
+@import url(../blocks/how-we-work/__button/how-we-work__button.css);
+@import url(../blocks/how-we-work/__info-block/how-we-work__info-block.css);
+@import url(../blocks/how-we-work/__info-element/how-we-work__info-element.css);
+@import url(../blocks/how-we-work/__element-title/how-we-work__element-title.css);
+@import url(../blocks/how-we-work/__element-subtitle/how-we-work__element-subtitle.css);
+
+@import url(../blocks/our-team/our-team.css);
+@import url(../blocks/our-team/__title/our-team__title.css);
+@import url(../blocks/our-team/__photos/our-team__photos.css);
+@import url(../blocks/our-team/__photo/our-team__photo.css);
+
+@import url(../blocks/client-form/client-form.css);
+@import url(../blocks/client-form/_page_our-team/client-form_page_our-team.css);
+@import url(../blocks/client-form/__title/client-form__title.css);
+@import url(../blocks/client-form/__input/client-form__input.css);
+@import url(../blocks/client-form/__copy/client-form__copy.css);
+@import url(../blocks/client-form/__span/client-form__span.css);
+@import url(../blocks/client-form/__button/client-form__button.css);
+
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__number/footer__number.css);
+@import url(../blocks/footer/__logo/footer__logo.css);
+@import url(../blocks/social-buttons/social-buttons.css);
+@import url(../blocks/social-buttons/__button/social-buttons__button.css);

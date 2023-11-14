@@ -1,0 +1,16 @@
+.contacts-box__request {
+    padding: 24px 40px;
+    font-family: 'mtBlack', sans-serif;
+    color: #FFFFFF;
+    font-size: 15px;
+    line-height: 24px;
+    font-weight: 900;
+    background-color: #0000FF;
+    border: none;
+    cursor: pointer;
+    transition: scale .5s;
+}
+
+.contacts-box__request:hover {
+    scale: 1.2;
+}

@@ -1,0 +1,6 @@
+.header__tabs {
+    display: flex;
+    justify-content: space-between;
+    width: 551px;
+    margin: 90px 0 0 708px;
+}

@@ -1,0 +1,16 @@
+.contacts-box__requisites {
+    padding: 23px 13px;
+    font-family: 'mtEBold', sans-serif;
+    font-size: 14px;
+    line-height: 22px;
+    font-weight: 800;
+    color: #0000FF;
+    background-color: transparent;
+    border: 2px solid #0000FF;
+    cursor: pointer;
+    transition: scale .5s;
+}
+
+.contacts-box__requisites:hover {
+    scale: 1.2;
+}

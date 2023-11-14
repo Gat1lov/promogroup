@@ -1,0 +1,10 @@
+.project-content__markup {
+    margin: 86px 0 0;
+    float: right;
+    width: 1050px;
+    display: grid;
+    grid-template-columns: repeat(2, 515px);
+    grid-template-rows: repeat(4, auto);
+    column-gap: 20px;
+    row-gap: 50px;
+}

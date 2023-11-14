@@ -1,0 +1,10 @@
+.client-form__copy {
+    margin: 0 0 50px;
+    width: 559px;
+    font-family: 'mtLig';
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 22.4px;
+    letter-spacing: 5%;
+    color: #4A4A4A;
+}

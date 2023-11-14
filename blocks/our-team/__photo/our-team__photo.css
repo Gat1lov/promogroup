@@ -1,0 +1,34 @@
+.our-team__photo {
+  width: auto;
+  height: auto;
+}
+
+.item1 {
+  grid-area: item1;
+}
+
+.item2 {
+  grid-area: item2;
+  margin-left: -40px;
+}
+
+.item3 {
+  grid-area: item3;
+}
+
+.item4 {
+  grid-area: item4;
+  margin-top: -140px;
+}
+
+.item5 {
+  grid-area: item5;
+}
+
+.item6 {
+  grid-area: item6;
+}
+
+.item7 {
+  grid-area: item7;
+}

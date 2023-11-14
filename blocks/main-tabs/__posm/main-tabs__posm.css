@@ -1,0 +1,15 @@
+.main-tabs__posm {
+    background-image: url(../../../images/posm.svg);
+    margin: 0 21.92px 0;
+    height: 667px;
+    width: 372.56px;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    overflow: hidden;
+    transition: background-image .2s ease;
+}
+
+.main-tabs__posm:hover {
+    background-image: url(../../../images/posm-hover.svg);
+}

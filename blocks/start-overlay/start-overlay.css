@@ -1,0 +1,17 @@
+.start-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    min-height: 100vh;
+    background-color: #0000FF;
+    display: flex;
+    opacity: 1;
+    transition: all 0.5s;
+    z-index: 999;
+}
+
+.active {
+    transform: translateY(100%);
+    opacity: 0;
+}

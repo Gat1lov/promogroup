@@ -1,0 +1,4 @@
+.how-we-work__info-block {
+    display: flex;
+    justify-content: space-between;
+}

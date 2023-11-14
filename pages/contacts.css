@@ -1,0 +1,26 @@
+@import url(../fonts/fonts.css);
+
+@import url(../blocks/root/root.css);
+
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__logo/_hover/header__logo_hover.css);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__tabs/header__tabs.css);
+@import url(../blocks/header-tab/header-tab.css);
+@import url(../blocks/header-tab/_active/header-tab_active.css);
+
+@import url(../blocks/content/content.css);
+
+@import url(../blocks/contacts-box/contacts-box.css);
+@import url(../blocks/contacts-box/__office/contacts-box__office.css);
+@import url(../blocks/contacts-box/__title/contacts-box__title.css);
+@import url(../blocks/contacts-box/__subtitle/contacts-box__subtitle.css);
+@import url(../blocks/contacts-box/__phrases/contacts-box__phrases.css);
+@import url(../blocks/contacts-box/__scheme/contacts-box__scheme.css);
+@import url(../blocks/contacts-box/__requisites/contacts-box__requisites.css);
+@import url(../blocks/contacts-box/__warehouse/contacts-box__warehouse.css);
+@import url(../blocks/contacts-box/__application/contacts-box__application.css);
+@import url(../blocks/contacts-box/__input/contacts-box__input.css);
+@import url(../blocks/contacts-box/__copy/contacts-box__copy.css);
+@import url(../blocks/contacts-box/__span/contacts-box__span.css);
+@import url(../blocks/contacts-box/__request/contacts-box__request.css);

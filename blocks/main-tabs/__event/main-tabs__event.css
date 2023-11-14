@@ -1,0 +1,15 @@
+.main-tabs__event {
+    margin: 0;
+    background-image: url(../../../images/event.svg);
+    height: 667px;
+    width: 372.56px;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    overflow: hidden;
+    transition: background-image .2s ease;
+}
+
+.main-tabs__event:hover {
+    background-image: url(../../../images/event-hover.svg);
+}

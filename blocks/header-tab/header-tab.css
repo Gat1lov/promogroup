@@ -1,0 +1,17 @@
+.header-tab {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    font-family: 'mtSBold', sans-serif;
+    font-weight: 600px;
+    font-size: 16px;
+    line-height: 25.6px;
+    letter-spacing: 10%;
+    color: #6D6D6D;
+    transition: color .5s;
+
+}
+
+.header-tab:hover {
+    color: #0000FF;
+}

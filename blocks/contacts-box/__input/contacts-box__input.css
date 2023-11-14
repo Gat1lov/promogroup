@@ -1,0 +1,18 @@
+.contacts-box__input {
+    margin: 0 0 45px;
+    padding: 0 0 15px 20px;
+    width: 696px;
+    font-family: 'mtReg', sans-serif;
+    font-size: 16px;
+    line-height: 19px;
+    font-weight: 400;
+    background-color: transparent;
+    color: #9D9D9D;
+    border: none;
+    border-bottom: 1px solid #9D9D9D;
+}
+
+
+.contacts-box__input:last-of-type {
+    margin-bottom: 25px;
+}

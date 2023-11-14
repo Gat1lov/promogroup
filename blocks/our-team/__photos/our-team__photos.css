@@ -1,0 +1,10 @@
+.our-team__photos {
+  display: grid;
+  justify-content: center;
+  column-gap: 23px;
+  row-gap: 20px;
+  grid-template-areas:
+    "item1 item2 item3"
+    "item4 item4 item5"
+    "item6 item7 item7";
+}

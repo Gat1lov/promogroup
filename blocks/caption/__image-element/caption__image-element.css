@@ -1,0 +1,7 @@
+.caption__image-element {
+    margin: 0;
+}
+
+.caption__image-element:last-of-type {
+    margin-left: 46px;
+}
